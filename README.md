@@ -14,7 +14,7 @@
 - 🌱 Currently learning **Android Development** & **Advanced Backend Architecture**  
 - 🔭 I’m building real-world projects with **React, Node.js, and Symfony**  
 - 💬 Ask me about **Web Development, Machine Learning, and Tech Innovations**  
-- 📫 Reach me at **bechir.lahoueg2019@gmail.com**  
+- 📫 Reach me at **bechirlahweg@gmail.com**  
 - 📱 (+216) 28 509 217  
 - 🎮 Fun fact: I love gaming as much as I love coding!
 
