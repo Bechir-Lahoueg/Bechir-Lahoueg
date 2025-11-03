@@ -8,18 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/bechirlahoueg" target="blank"><img src="https://img.shields.io/twitter/follow/bechirlahoueg?logo=twitter&style=for-the-badge" alt="bechirlahoueg" /></a> </p>
 
-- 🔭 Multimedia & Web Development Student | Passionate about AI, Machine Learning, & Web Technologies
-
-- 🌱 I’m currently learning **Android studio**
-
-- 💻 Check out my projects on my github
-- 💬 Let's chat about Web Development, AI, and Tech Innovations
-  
-- 📫 How to reach me: **bechir.lahoueg2019@gmail.com **              
-  📱:(+216)28509217
-
-- 📄 Learn more about me from my resume
-  
+### 🚀 About Me  
+- 🎓 **Software Engineering Student** specialized in **Full Stack Development**  
+- 💻 Passionate about **AI, Web Technologies, and Modern UX Design**  
+- 🌱 Currently learning **Android Development** & **Advanced Backend Architecture**  
+- 🔭 I’m building real-world projects with **React, Node.js, and Symfony**  
+- 💬 Ask me about **Web Development, Machine Learning, and Tech Innovations**  
+- 📫 Reach me at **bechir.lahoueg2019@gmail.com**  
+- 📱 (+216) 28 509 217  
 - 🎮 Fun fact: I love gaming as much as I love coding!
 
 <h3 align="left">Connect with me:</h3>
