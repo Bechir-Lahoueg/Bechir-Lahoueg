@@ -1,37 +1,212 @@
-![MasterHead](https://camo.githubusercontent.com/b7e4043e3d5aa528dd8933a842c158a38a9c5ce8f9cf14595801d8c371deda6f/68747470733a2f2f696d616765732d7769786d702d6564333061383662386334636138383737373335393463322e7769786d702e636f6d2f662f63383363303034652d313337302d343735362d383865352d3430373164653739373038382f646672656467352d30613630653837352d363436652d346436632d626239312d3733303836663031323830382e6769663f746f6b656e3d65794a30655841694f694a4b563151694c434a68624763694f694a49557a49314e694a392e65794a7a645749694f694a31636d3436595842774f6a646c4d4751784f4467354f4449794e6a517a4e7a4e684e5759775a4451784e5756684d4751794e6d55774969776961584e7a496a6f6964584a754f6d467763446f335a54426b4d5467344f5467794d6a59304d7a637a5954566d4d4751304d54566c5954426b4d6a5a6c4d434973496d39696169493657317437496e4268644767694f694a634c325a634c324d344d324d774d44526c4c54457a4e7a41744e4463314e6930344f4755314c5451774e7a466b5a5463354e7a41344f4677765a475a795a57526e4e533077595459775a5467334e5330324e445a6c4c54526b4e6d4d74596d49354d5330334d7a41344e6d59774d5449344d4467755a326c6d496e3164585377695958566b496a7062496e5679626a707a5a584a3261574e6c4f6d5a70624755755a473933626d7876595751695858302e4c474e5f65474c3764543078526a346f52627952525661792d70486279695848727537596f56506352726f)
-<h1 align="center">Hi 👋, I'm Bechir Lahoueg</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bechir%20Lahoueg&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
 
-<h3 align="center">A Tunisia-based developer fueled by passion and creativity</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3ABEF9&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Engineering+Student+%F0%9F%8E%93;AI+%26+Web+Technology+Enthusiast+%F0%9F%A4%96;Building+The+Future%2C+One+Line+At+A+Time+%F0%9F%92%BB)](https://git.io/typing-svg)
+  
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bechir-lahoueg&label=Profile%20views&color=0e75b6&style=flat" alt="bechir-lahoueg" /> </p>
+<div align="center">
+  
+  <!-- Animated separator -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+</div>
 
-<p align="left"> <a href="https://twitter.com/bechirlahoueg" target="blank"><img src="https://img.shields.io/twitter/follow/bechirlahoueg?logo=twitter&style=for-the-badge" alt="bechirlahoueg" /></a> </p>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
 
-### 🚀 About Me  
-- 🎓 **Software Engineering Student** specialized in **Full Stack Development**  
-- 💻 Passionate about **AI, Web Technologies, and Modern UX Design**  
-- 🌱 Currently learning **Android Development** & **Advanced Backend Architecture**  
-- 🔭 I’m building real-world projects with **React, Node.js, and Symfony**  
-- 💬 Ask me about **Web Development, Machine Learning, and Tech Innovations**  
-- 📫 Reach me at **bechirlahweg@gmail.com**  
-- 📱 (+216) 28 509 217  
-- 🎮 Fun fact: I love gaming as much as I love coding!
+```typescript
+const bechir = {
+    location: "Tunisia 🇹🇳",
+    role: "Full Stack Developer",
+    education: "Software Engineering Student",
+    currentFocus: ["Android Development", "Advanced Backend Architecture", "AI Integration"],
+    techStack: {
+        frontend: ["React", "Angular", "TypeScript", "Bootstrap", "HTML5/CSS3"],
+        backend: ["Node.js", "Symfony", "PHP", "Java"],
+        mobile: ["Android Development (Learning)"],
+        databases: ["MySQL", "Oracle"],
+        tools: ["Git", "Postman", "Photoshop"],
+        interests: ["AI", "Web Technologies", "Modern UX Design"]
+    },
+    funFact: "I love gaming as much as I love coding! 🎮",
+    currentlyBuilding: "Real-world projects with React, Node.js, and Symfony",
+    askMeAbout: ["Web Development", "Machine Learning", "Tech Innovations"]
+};
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bechirlahoueg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bechirlahoueg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bechir-lahoueg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bechir-lahoueg" height="30" width="40" /></a>
-<a href="https://fb.com/bechirlahoueg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bechirlahoueg" height="30" width="40" /></a>
-<a href="https://instagram.com/bechir_lahweg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bechir_lahweg" height="30" width="40" /></a>
-</p>
+<div align="center">
+  
+  <!-- Animated separator -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## 🎯 Current Goals
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bechir-lahoueg&show_icons=true&locale=en&layout=compact" alt="bechir-lahoueg" /></p>
+<details open>
+<summary><b>Click to expand</b></summary>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bechir-lahoueg&show_icons=true&locale=en" alt="bechir-lahoueg" /></p>
+- 🔭 Building scalable web applications with modern frameworks
+- 🌱 Mastering Android Development & Cloud Architecture
+- 👯 Looking to collaborate on innovative AI/ML projects
+- 🚀 Contributing to open-source communities
+- 📚 Expanding knowledge in DevOps and Microservices
+- 💡 Exploring cutting-edge web technologies
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bechir-lahoueg&" alt="bechir-lahoueg" /></p>
+</details>
 
+<div align="center">
+  
+  <!-- Animated separator -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+</div>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🎨 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 📱 Mobile & Others
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+</div>
+
+<div align="center">
+  
+  <!-- Animated separator -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bechir-lahoueg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bechir-lahoueg&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bechir-lahoueg&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=bechir-lahoueg&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+<div align="center">
+  
+### 🏆 GitHub Trophies
+  
+<img src="https://github-profile-trophy.vercel.app/?username=bechir-lahoueg&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> 
+
+</div>
+
+<div align="center">
+  
+  <!-- Animated separator -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bechir-lahoueg/bechir-lahoueg/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bechir-lahoueg/bechir-lahoueg/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bechir-lahoueg/bechir-lahoueg/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  
+  <!-- Animated separator -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+</div>
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bechir-lahoueg)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bechirlahoueg)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/bechirlahoueg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bechir_lahweg)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bechirlahweg@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+21628509217)
+
+</div>
+
+<div align="center">
+  
+  <!-- Animated separator -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+</div>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<div align="center">
+  
+  <!-- Animated separator -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+</div>
+
+## 👀 Profile Views
+
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=bechir-lahoueg&style=for-the-badge&color=3ABEF9&label=PROFILE+VIEWS)
+  
+</div>
+
+<div align="center">
+  
+  <!-- Animated separator -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+</div>
+
+<div align="center">
+  
+### 💡 "Building innovative solutions, one commit at a time."
+  
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
