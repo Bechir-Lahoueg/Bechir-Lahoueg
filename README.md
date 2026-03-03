@@ -23,7 +23,7 @@
 
 <!-- ATMOSPHERIC TYPING -->
 <a href="https://github.com/Bechir-Lahoueg">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&duration=3500&pause=1200&color=7cc6a0&center=true&vCenter=true&multiline=false&width=700&height=45&lines=◈+Code.+Create.+Conquer.+◈;◈+A+lone+architect+building+empires+in+the+dark+◈;◈+Where+silence+meets+the+storm+◈;◈+Every+line+of+code+is+a+step+deeper+into+the+forest+◈;◈+Not+a+profile.+A+presence.+◈" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=3500&pause=1200&color=7cc6a0&center=true&vCenter=true&multiline=false&width=720&height=45&lines=Code.+Create.+Conquer.;A+lone+architect+building+empires+in+the+dark;Building+in+silence.+Deploying+storms.;Every+commit+is+a+footprint+in+the+wilderness;Not+a+profile.+A+presence." alt="Typing SVG" />
 </a>
 
 &nbsp;
@@ -156,15 +156,24 @@ Every pull request:     a bridge built in silence.
 &nbsp;
 
 ```
-                        🌲          🌲🌲
-                     🌲🌲🌲      🌲🌲🌲🌲
-                   🌲🌲🌲🌲🌲  🌲🌲🌲🌲🌲🌲
-                  🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲
-                 🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲
-                ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-               ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-             Write code like roots — silent, deep, unbreakable.
+
+                              . ' .
+                          . '   |   ' .
+                       . '      |      ' .
+                    . '         |         ' .
+                  ,'            |            '.
+                 /    .    .    |    .    .    \
+                /  .    .    . | .    .    .  |
+       ________/________________|________________\________
+      /  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~ \
+      | ~ ~  ~   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~   ~  ~  ~ ~|
+      |~ ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~ ~|
+      \__________________________________________________/
+
+                   the still lake never lies.
+             depth is invisible from the surface.
+
 ```
 
 &nbsp;
@@ -332,18 +341,43 @@ Every pull request:     a bridge built in silence.
 </p>
 
 <!-- ┌─────────────────────────────────────────────────────────────────────────┐ -->
-<!-- │             VII. THE TROPHIES — EARNED IN SILENCE                      │ -->
+<!-- │             VII. THE CODEX — SKILLS MASTERED IN THE DARK              │ -->
 <!-- └─────────────────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
 
-### ◈ &nbsp;Trophies Earned in Silence
+### ◈ &nbsp;The Codex — Mastery Levels
+
+*Skills are not listed. They are carved.*
 
 &nbsp;
 
-<img src="https://github-profile-trophy.vercel.app/?username=bechir-lahoueg&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" />
-
 </div>
+
+```
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║                  ◈  BECHIR'S CODEX OF MASTERY  ◈                    ║
+  ╠══════════════════════════════════════════════════════════════════════╣
+  ║                                                                      ║
+  ║  Frontend Craft     ████████████████████░░░  90%  [ VETERAN ]       ║
+  ║  Backend Sorcery    ███████████████████░░░░░  82%  [ ADEPT   ]       ║
+  ║  Database Lore      ████████████████░░░░░░░░  75%  [ ADEPT   ]       ║
+  ║  DevOps Arts        █████████████░░░░░░░░░░░  65%  [ LEARNER ]       ║
+  ║  System Design      ██████████████░░░░░░░░░░  68%  [ LEARNER ]       ║
+  ║  Mobile Forging     ████████░░░░░░░░░░░░░░░░  40%  [ NOVICE  ]       ║
+  ║  AI / ML            ██████░░░░░░░░░░░░░░░░░░  30%  [ NOVICE  ]       ║
+  ║                                                                      ║
+  ╠══════════════════════════════════════════════════════════════════════╣
+  ║                                                                      ║
+  ║  Git Mastery        ████████████████████████  99%  [ LEGEND  ]       ║
+  ║  Problem Solving    █████████████████████░░░  93%  [ LEGEND  ]       ║
+  ║  Coffee Brewing     ████████████████████████  ∞%   [ GOD     ]       ║
+  ║                                                                      ║
+  ║  → Overall XP: ████████████████████░░░░       LEVEL 27  ▲           ║
+  ╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">&nbsp;</div>
 
 &nbsp;
 
@@ -453,28 +487,21 @@ Every pull request:     a bridge built in silence.
 &nbsp;
 
 ```
-                                    ✦
-                                   ·:·
-                                  ·:·:·
-                                 ✦:···:✦
-                                ·:·····:·
-                               ·:·:✦:·:·:·
-                              ···:·····:···
-                             ✦·····:·····:✦
-                            ·····:···:·····
-                           ···:·········:···
-                          ······:·····:······
-                         ✦···:···········:···✦
-                        ·····················:·
-                       ·:·····:·:···:·:·····:·:·
-                      ·······:···:✦:···:·······
-                     ···:·······:···:·······:···
-                    ··········:·······:··········
-                              |||||||
-                              |||||||
-                              |||||||
-                         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-                       ░░░░░░░░░░░░░░░░░░░
+
+         git log --oneline --all --author="Bechir Lahoueg"
+        ────────────────────────────────────────────────────
+
+         a1f3c09  feat: built something no one asked for
+         9e2b441  fix: silenced the bug that screamed at 3am
+         7d0a183  refactor: deleted 400 lines — felt powerful
+         3cc8f10  perf: made it fast enough to feel alive
+         b12e774  chore: convinced the CI to stop crying
+         02af991  feat: shipped v1 — slept for 12 hours
+         e9d3c20  init: planted the first seed in the dark
+
+         ────────────────────────────────────────────────────
+         HEAD -> main  ·  origin/main  ·  legacy/ideas-graveyard
+
 ```
 
 &nbsp;
