@@ -341,7 +341,30 @@ Every pull request:     a bridge built in silence.
 </p>
 
 <!-- ┌─────────────────────────────────────────────────────────────────────────┐ -->
-<!-- │             VII. THE CODEX — SKILLS MASTERED IN THE DARK              │ -->
+<!-- │           VII. THE DIMENSION — 3D CONTRIBUTION WORLD                  │ -->
+<!-- └─────────────────────────────────────────────────────────────────────────┘ -->
+
+<div align="center">
+
+### ◈ &nbsp;The Dimension — My Contributions in 3D
+
+*Every peak is a week of obsession. Every valley, a week I was planning the next storm.*
+
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/bechir-lahoueg/bechir-lahoueg/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
+
+</div>
+
+&nbsp;
+
+<!-- NATURE DIVIDER -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<!-- ┌─────────────────────────────────────────────────────────────────────────┐ -->
+<!-- │             VIII. THE CODEX — SKILLS MASTERED IN THE DARK             │ -->
 <!-- └─────────────────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
@@ -387,7 +410,34 @@ Every pull request:     a bridge built in silence.
 </p>
 
 <!-- ┌─────────────────────────────────────────────────────────────────────────┐ -->
-<!-- │           VIII. PROFILE SUMMARY — THE CANOPY VIEW                      │ -->
+<!-- │              IX. CURRENTLY VIBING — SPOTIFY                           │ -->
+<!-- └─────────────────────────────────────────────────────────────────────────┘ -->
+
+<div align="center">
+
+### ◈ &nbsp;Currently Vibing
+
+*The music playing while the code is being written.*
+
+&nbsp;
+
+<!-- 🎵 SETUP: go to https://github.com/kittinan/spotify-github-profile -->
+<!-- Deploy to Vercel, connect your Spotify account, then replace YOUR_SPOTIFY_UID below -->
+<a href="https://open.spotify.com">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=neon&show_offline=true&background_color=0d1117&interchange=false&bar_color=40916c&bar_color_cover=true" alt="Spotify Now Playing" width="380" />
+</a>
+
+&nbsp;
+
+</div>
+
+<!-- NATURE DIVIDER -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<!-- ┌─────────────────────────────────────────────────────────────────────────┐ -->
+<!-- │             X. PROFILE SUMMARY — THE CANOPY VIEW                      │ -->
 <!-- └─────────────────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
@@ -486,23 +536,15 @@ Every pull request:     a bridge built in silence.
 
 &nbsp;
 
-```
+<!-- ISOMETRIC CALENDAR — a second angle on the same data -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bechir-lahoueg&theme=github_dark" width="88%" />
 
-         git log --oneline --all --author="Bechir Lahoueg"
-        ────────────────────────────────────────────────────
+&nbsp;
 
-         a1f3c09  feat: built something no one asked for
-         9e2b441  fix: silenced the bug that screamed at 3am
-         7d0a183  refactor: deleted 400 lines — felt powerful
-         3cc8f10  perf: made it fast enough to feel alive
-         b12e774  chore: convinced the CI to stop crying
-         02af991  feat: shipped v1 — slept for 12 hours
-         e9d3c20  init: planted the first seed in the dark
-
-         ────────────────────────────────────────────────────
-         HEAD -> main  ·  origin/main  ·  legacy/ideas-graveyard
-
-```
+<!-- LANGUAGE TIME SPLIT -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bechir-lahoueg&theme=github_dark" width="40%" />
+&ensp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bechir-lahoueg&theme=github_dark&utcOffset=1" width="40%" />
 
 &nbsp;
 
