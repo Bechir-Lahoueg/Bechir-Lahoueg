@@ -1,21 +1,44 @@
-name: 🌿 Generate Contribution Snake Animation
+# ╔══════════════════════════════════════════════════════════════════════╗
+# ║                                                                      ║
+# ║   🐍  T H E   H U N T  —  C O N T R I B U T I O N   S N A K E      ║
+# ║                                                                      ║
+# ║   In this forest, every green square is prey.                       ║
+# ║   The serpent wakes every 6 hours — dawn, noon, dusk, midnight.     ║
+# ║   It devours commits. It never sleeps. It leaves a trail.           ║
+# ║                                                                      ║
+# ║   Trigger: scheduled (*/6h) · push to main · manual dispatch        ║
+# ║   Output:  output branch  → github-contribution-grid-snake*.svg     ║
+# ║                                                                      ║
+# ╚══════════════════════════════════════════════════════════════════════╝
+
+name: 🌿 The Hunt — Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # runs every 6 hours
-  workflow_dispatch:
+    - cron: "0 */6 * * *"   # 🌑 hunts every 6 hours
+  workflow_dispatch:          # 🌿 summon it manually when needed
   push:
     branches:
-      - main
+      - main                  # 🌱 or on every push to main
 
 jobs:
+
+  # ──────────────────────────────────────────────────────────────────────
   generate:
-    permissions:
-      contents: write
+  # ──────────────────────────────────────────────────────────────────────
+    name: 🐍 Release the serpent
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
+
+      - name: 🌲 Enter the forest — checkout repository
+        uses: actions/checkout@v4
+
+      # The snake consumes every green square in your contribution grid.
+      # It outputs two SVGs: one for light mode, one for dark mode.
       - name: 🐍 Generate contribution grid snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -24,8 +47,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: 🌲 Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      # The trail is committed to the `output` branch.
+      # Reference it raw in your README to always show the latest hunt.
+      - name: 🍃 Push the trail to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
