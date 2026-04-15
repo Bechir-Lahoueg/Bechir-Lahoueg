@@ -16,55 +16,36 @@ name: 🌳 The Dimension — 3D Contribution Forest
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # 🌙 the canopy grows every night at 18:00 UTC
-  workflow_dispatch:          # 🌿 or grow it on demand
+    - cron: "0 18 * * *"
+  workflow_dispatch:
   push:
     branches:
-      - main                  # 🌱 or on every push to main
+      - main
+
+permissions:
+  contents: write
 
 jobs:
-
-  # ──────────────────────────────────────────────────────────────────────
   build:
-  # ──────────────────────────────────────────────────────────────────────
     name: 🌿 Render the canopy
     runs-on: ubuntu-latest
 
     steps:
 
-      - name: 🌲 Enter the forest — checkout repository
+      - name: 🌲 Checkout repository
         uses: actions/checkout@v4
 
-      - name: 🗂️ Prepare the grove — create output directory
-        run: mkdir -p profile-3d-contrib
-
-      # Renders a 3D isometric contribution calendar.
-      # Forest palette: deep shadows → sage canopy (#1a3a2a → #a8e6cf).
       - name: 🌳 Render the 3D contribution forest
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: |
-            {
-              "githubUserName": "${{ github.repository_owner }}",
-              "backgroundColor": "#0d1117",
-              "foregroundColor": "#a8e6cf",
-              "wdBodyColor": "#a8e6cf",
-              "wdTextColor": "#0d1117",
-              "wdBorderColor": "#40916c",
-              "contributeColors": ["#1a3a2a","#2d6a4f","#40916c","#52b788","#a8e6cf"],
-              "calendarContributeColors": ["#1a3a2a","#2d6a4f","#40916c","#52b788","#a8e6cf"],
-              "isOutdoor": true
-            }
 
-      # The new canopy is committed back to main.
-      # [skip ci] prevents an infinite trigger loop.
       - name: 🍃 Commit the new canopy to main
         run: |
           git config --global user.name  "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile-3d-contrib/
+          git add -A profile-3d-contrib/
           git diff --cached --quiet || \
             git commit -m "chore(bot): 🌳 regenerate 3d forest [$(date +'%Y-%m-%d')] [skip ci]"
           git push

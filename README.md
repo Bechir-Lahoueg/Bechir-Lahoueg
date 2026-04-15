@@ -1,4 +1,4 @@
-﻿<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                                                                           -->
 <!--     ██████╗ ███████╗ ██████╗██╗  ██╗██╗██████╗                            -->
 <!--     ██╔══██╗██╔════╝██╔════╝██║  ██║██║██╔══██╗                           -->
@@ -7,82 +7,91 @@
 <!--     ██████╔╝███████╗╚██████╗██║  ██║██║██║  ██║                           -->
 <!--     ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝                         -->
 <!--                                                                           -->
-<!--         S H E L L   C O M M A N D E R  ·  F O R E S T   E D I T I O N   -->
+<!--     P H A N T O M   F O R E S T  ·  E D I T I O N                        -->
 <!--                                                                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   I. HEADER   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   I. THE ENTRANCE   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,15:0a1628,30:0d2137,50:0b3d2e,70:0d4a3a,85:134e3a,100:1a5c2e&height=300&section=header&text=𝐁𝐄𝐂𝐇𝐈𝐑%20𝐋𝐀𝐇𝐎𝐔𝐄𝐆&fontSize=58&fontColor=a8e6cf&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%20◈%20%20Builder%20%20◈%20%20Architect%20%20◈%20%20Shell%20Commander&descAlignY=57&descSize=15&descFontColor=5b8a72" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:050d09,25:0a1a10,40:0d2818,55:0b3d2e,70:134e3a,85:1a5c2e,100:1f6f35&height=280&section=header&text=𝐁𝐄𝐂𝐇𝐈𝐑%20𝐋𝐀𝐇𝐎𝐔𝐄𝐆&fontSize=62&fontColor=c9f5d9&animation=fadeIn&fontAlignY=33&desc=Full%20Stack%20Engineer%20%20%E2%97%88%20%20System%20Architect%20%20%E2%97%88%20%20Phantom%20Forest&descAlignY=55&descSize=14&descFontColor=6db88a" width="100%" />
 
 &nbsp;
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2400&pause=700&color=a8e6cf&center=true&vCenter=true&width=820&height=44&lines=bechir%40forest%3A~%24+git+push+origin+main+--force+%E2%9C%93;bechir%40forest%3A~%24+sudo+apt+install+ambition+--upgrade+--yes+%E2%9C%93;bechir%40forest%3A~%24+docker+build+-t+bechir%2Funiverse+.+%26%26+docker+push+%E2%9C%93;bechir%40forest%3A~%24+python3+train.py+--model+gpt+--epochs+9999+%E2%9C%93;bechir%40forest%3A~%24+ssh+root%40prod.server+-p+22+%E2%9C%93;bechir%40forest%3A~%24+./forge.sh+--target%3Dworld+--release+%E2%9C%93;bechir%40forest%3A~%24+systemctl+enable+grind.service+--now+%E2%9C%93;bechir%40forest%3A~%24+sudo+chmod+777+%2Fpath%2Fto%2Fthe%2Ffuture+%E2%9C%93;bechir%40forest%3A~%24+cat+%2Fdev%2Finspiration+%7C+grep+-v+%22give+up%22+%E2%9C%93" alt="Typing" />
+<!-- Terminal typing animation — cinematic commands -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=800&color=7dcea0&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=%F0%9F%8C%B2+bechir%40phantom%3A~%24+Entering+the+forest...;%E2%96%88+root%40phantom%3A~%23+Building+things+that+outlive+me." alt="Typing SVG" />
+</a>
 
 &nbsp;
 
-<img src="https://komarev.com/ghpvc/?username=bechir-lahoueg&label=wanderers+who+found+this+place&color=2d6a4f&style=flat-square&labelColor=0d1117" />
-&ensp;·&ensp;
-<img src="https://img.shields.io/github/followers/bechir-lahoueg?label=companions&style=flat-square&color=2d6a4f&labelColor=0d1117" />
-&ensp;·&ensp;
-<img src="https://img.shields.io/github/stars/bechir-lahoueg?label=stars+left+behind&style=flat-square&color=40916c&labelColor=0d1117" />
+<!-- Badges row -->
+<img src="https://komarev.com/ghpvc/?username=bechir-lahoueg&label=forest+visitors&color=1a5c2e&style=for-the-badge&labelColor=0a0f0a" height="25" />
+&ensp;
+<img src="https://img.shields.io/github/followers/bechir-lahoueg?label=allies&style=for-the-badge&color=1a5c2e&labelColor=0a0f0a&logo=github&logoColor=7dcea0" height="25" />
+&ensp;
+<img src="https://img.shields.io/github/stars/bechir-lahoueg?label=stars&style=for-the-badge&color=1a5c2e&labelColor=0a0f0a&logo=github&logoColor=7dcea0" height="25" />
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+&nbsp;
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   II. SUDO TERMINAL — ABOUT ME   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+&nbsp;
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   II. ROOT ACCESS — IDENTITY   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-### ◈ &nbsp;Root Access Granted
+### `> root access granted_`
 
 </div>
 
+&nbsp;
+
 ```
-┌─────────────────────────────────────────────────────── bechir@forest ~  ✕ ─┐
-│                                                                              │
-│  bechir@forest:~$ sudo -i                                                   │
-│  [sudo] password for bechir: ••••••••••                                     │
-│  root@forest:~#                                                              │
-│                                                                              │
-│  root@forest:~# cat /etc/bechir.conf                                        │
-│                                                                              │
-│    NAME        = "Bechir Lahoueg"                     🇹🇳 Tunis, Tunisia    │
-│    CLASS       = "Full Stack Engineer"                                       │
-│    ARCHETYPE   = "Builder · Architect · Explorer"                            │
-│    ALIGNMENT   = "Chaotic Creative"                                          │
-│    STATUS      = "Building in silence. Deploying storms."                    │
-│    PHILOSOPHY  = "A tree does not announce it is growing."                   │
-│                                                                              │
-│  root@forest:~# systemctl status bechir.service                             │
-│                                                                              │
-│  ● bechir.service — The Developer Daemon                                    │
-│     Loaded: loaded (/lib/systemd/system/bechir.service; enabled)             │
-│     Active: ● active (running) since 2002; 22 years 4 months ago            │
-│    Process: ExecStart=/usr/bin/bechir --mode=fullstack --coffee=∞           │
-│   Main PID: 1 (life)                                                         │
-│                                                                              │
-│  root@forest:~# ps aux | grep bechir                                        │
-│                                                                              │
-│     PID   %CPU  %MEM  COMMAND                  STATUS                       │
-│    2026   99.9   9.7  coding                   RUNNING ●                    │
-│    2026   88.1   4.2  learning                 RUNNING ●                    │
-│    2026  100.0   0.1  coffee                   RUNNING ●                    │
-│    2026   42.0   1.1  gaming                   SLEEPING ◌                   │
-│                                                                              │
-│  root@forest:~# uptime                                                      │
-│   03:47:11 up 22 years,  load average: 9.9, 9.9, 9.9                       │
-│                                                                              │
-│  root@forest:~# ▌                                                           │
-└──────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────── phantom-forest ──┐
+│                                                                          │
+│  bechir@phantom:~$ sudo -i                                               │
+│  [sudo] password: ••••••••••                                             │
+│  root@phantom:~#                                                         │
+│                                                                          │
+│  root@phantom:~# cat /etc/identity.conf                                  │
+│                                                                          │
+│    NAME ............. Bechir Lahoueg                                      │
+│    LOCATION ......... Tunis, Tunisia  🇹🇳                                │
+│    CLASS ............ Full Stack Engineer                                 │
+│    ARCHETYPE ........ Builder · Architect · Explorer                      │
+│    ALIGNMENT ........ Chaotic Creative                                    │
+│    PHILOSOPHY ....... "A tree does not announce it is growing."           │
+│                                                                          │
+│  root@phantom:~# systemctl status phantom.service                        │
+│                                                                          │
+│    ● phantom.service — The Developer Daemon                              │
+│      Active: ■ active (running) since 2002 — 23+ years                   │
+│      Mode:   --fullstack --ambition=max --sleep=optional                  │
+│                                                                          │
+│  root@phantom:~# ps aux --forest                                         │
+│                                                                          │
+│    PID    CPU%   MEM%   COMMAND                    STATE                  │
+│    001    99.9   ██▓░   coding                     RUNNING  ●             │
+│    002    91.2   █▓░░   learning                   RUNNING  ●             │
+│    003   100.0   ████   coffee                     CRITICAL ●             │
+│    004    42.0   ▓░░░   gaming                     IDLE     ◌             │
+│                                                                          │
+│  root@phantom:~# ▌                                                       │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+&nbsp;
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   III. ABOUT — TWO COLUMN   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+&nbsp;
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   III. EXPEDITION + CHRONICLE   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <table width="100%">
 <tr>
@@ -90,35 +99,35 @@
 
 <div align="center">
 
-### ◈ &nbsp;Current Expedition
+### `> current_expedition.log`
 
 </div>
 
 ```
-┌─ NOW FORGING ──────────────────────┐
-│                                    │
-│  ⌁ Full Stack Web Applications     │
-│  ⌁ Android Development             │
-│  ⌁ AI / Machine Learning           │
-│  ⌁ Cloud Architecture              │
-│  ⌁ System Design Mastery           │
-│                                    │
-├─ 2026 OBJECTIVES ──────────────────┤
-│                                    │
-│  ◇ Ship a personal SaaS product    │
-│  ◇ Contribute to top OSS repos     │
-│  ◇ Deploy ML model to production   │
-│  ◇ Master advanced TypeScript      │
-│  ◇ Build something people love     │
-│                                    │
-├─ RITUALS ──────────────────────────┤
-│                                    │
-│  ☾  Code after midnight            │
-│  ☕  Coffee: non-negotiable         │
-│  🎧  Lo-fi or silence only          │
-│  🎮  Gaming to recharge             │
-│                                    │
-└────────────────────────────────────┘
+┌─ NOW ─────────────────────────────────┐
+│                                        │
+│  ⠿ Full Stack Web Applications        │
+│  ⠿ Android Development                │
+│  ⠿ AI / Machine Learning              │
+│  ⠿ Cloud Architecture                 │
+│  ⠿ System Design at Scale             │
+│                                        │
+├─ 2026 TARGETS ────────────────────────┤
+│                                        │
+│  ◆ Ship a personal SaaS product       │
+│  ◆ Contribute to major OSS repos      │
+│  ◆ Deploy ML model to production      │
+│  ◆ Master advanced TypeScript          │
+│  ◆ Build something people remember    │
+│                                        │
+├─ RITUALS ─────────────────────────────┤
+│                                        │
+│  ☾  Code after midnight               │
+│  ☕  Coffee: non-negotiable            │
+│  🎧  Lo-fi or silence                  │
+│  🎮  Gaming to recharge                │
+│                                        │
+└────────────────────────────────────────┘
 ```
 
 </td>
@@ -126,210 +135,189 @@
 
 <div align="center">
 
-### ◈ &nbsp;The Chronicle
+### `> the_chronicle.md`
 
 </div>
 
 ```
 There exists, in the quiet hours between
-midnight and dawn, a developer who
-speaks to machines.
+midnight and dawn, a developer who speaks
+to machines.
 
 Not with commands — with intent.
 
-Name ·········· Bechir Lahoueg
-Origin ········ Tunis, Tunisia 🇹🇳
-Class ········· Full Stack Engineer
-Archetype ····· Builder · Architect
-Alignment ····· Chaotic Creative
-Status ········ Forging something
-               in the dark.
-
 He does not write code.
-He grows it — like roots through stone,
-like vines consuming old walls,
-like forests reclaiming forgotten cities.
+He grows it —
+  like roots through stone,
+  like vines consuming old walls,
+  like forests reclaiming forgotten cities.
 
-Every repository:  a new territory.
-Every commit:      a footprint.
+Every repository:   a new territory.
+Every commit:       a footprint.
 Every pull request: a bridge.
+Every deploy:       a storm.
+
+Some developers build applications.
+He builds ecosystems.
+
+And somewhere between the first keystroke
+and the final push — the forest grows.
 ```
 
 </td>
 </tr>
 </table>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+&nbsp;
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   IV. ARSENAL — SQUARE ICONS   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+&nbsp;
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   IV. THE ARSENAL   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-### ◈ &nbsp;The Arsenal
+### `> arsenal --list-all`
 
-*Every warrior carries their tools. These are mine.*
-
-&nbsp;
-
-<!-- ── FRONTEND ── -->
-**⚔️ &nbsp; Frontend**
+*Every tool is a weapon. Every weapon, an extension of will.*
 
 &nbsp;
+
+**`// FRONTEND`**
 
 <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,tailwind&theme=dark&perline=8" /></a>
 
 &nbsp;
 
-<!-- ── BACKEND ── -->
-**🔨 &nbsp; Backend**
+**`// BACKEND`**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,php,symfony,java,c,python&theme=dark&perline=7" /></a>
 
 &nbsp;
 
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,php,symfony,java,c,python&theme=dark&perline=8" /></a>
+**`// DATA & INFRASTRUCTURE`**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker,linux,nginx&theme=dark&perline=6" /></a>
 
 &nbsp;
 
-<!-- ── DATA & DEVOPS ── -->
-**🗄️ &nbsp; Data & Infrastructure**
+**`// TOOLS & WORKFLOW`**
 
-&nbsp;
-
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker,linux,nginx&theme=dark&perline=8" /></a>
-
-&nbsp;
-
-<!-- ── TOOLS ── -->
-**🧭 &nbsp; Tools**
-
-&nbsp;
-
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio,figma,vim&theme=dark&perline=8" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio,figma,vim&theme=dark&perline=7" /></a>
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+&nbsp;
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   V. SKILL CODEX   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+&nbsp;
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   V. CODEX OF MASTERY   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-### ◈ &nbsp;The Codex — Mastery Levels
+### `> codex --show-mastery`
 
 </div>
 
 &nbsp;
 
 ```
-  ╔══════════════════════════════════════════════════════════════════════╗
-  ║                  ◈  BECHIR'S CODEX OF MASTERY  ◈                    ║
-  ╠══════════════════════════════════════════════════════════════════════╣
-  ║                                                                      ║
-  ║  Frontend Craft     ████████████████████░░░  90%  [ VETERAN ]       ║
-  ║  Backend Sorcery    ███████████████████░░░░░  82%  [ ADEPT   ]       ║
-  ║  Database Lore      ████████████████░░░░░░░░  75%  [ ADEPT   ]       ║
-  ║  DevOps Arts        █████████████░░░░░░░░░░░  65%  [ LEARNER ]       ║
-  ║  System Design      ██████████████░░░░░░░░░░  68%  [ LEARNER ]       ║
-  ║  Mobile Forging     ████████░░░░░░░░░░░░░░░░  40%  [ NOVICE  ]       ║
-  ║  AI / ML            ██████░░░░░░░░░░░░░░░░░░  30%  [ NOVICE  ]       ║
-  ║                                                                      ║
-  ╠══════════════════════════════════════════════════════════════════════╣
-  ║                                                                      ║
-  ║  Git Mastery        ████████████████████████  99%  [ LEGEND  ]       ║
-  ║  Problem Solving    █████████████████████░░░  93%  [ LEGEND  ]       ║
-  ║  Coffee Brewing     ████████████████████████   ∞%  [ DEITY   ]       ║
-  ║                                                                      ║
-  ║  → Overall XP: ████████████████████░░░░       LEVEL 27  ▲           ║
-  ╚══════════════════════════════════════════════════════════════════════╝
+  ╔════════════════════════════════════════════════════════════════════════╗
+  ║                     ◈  CODEX  OF  MASTERY  ◈                          ║
+  ╠════════════════════════════════════════════════════════════════════════╣
+  ║                                                                        ║
+  ║   Frontend Craft      ██████████████████████░░░░  90%   ▸ VETERAN      ║
+  ║   Backend Sorcery     ████████████████████░░░░░░  82%   ▸ ADEPT        ║
+  ║   Database Lore       ██████████████████░░░░░░░░  75%   ▸ ADEPT        ║
+  ║   System Design       ████████████████░░░░░░░░░░  68%   ▸ LEARNER      ║
+  ║   DevOps Arts         ███████████████░░░░░░░░░░░  65%   ▸ LEARNER      ║
+  ║   Mobile Forging      █████████░░░░░░░░░░░░░░░░░  40%   ▸ NOVICE       ║
+  ║   AI / ML             ███████░░░░░░░░░░░░░░░░░░░  30%   ▸ NOVICE       ║
+  ║                                                                        ║
+  ╠════════════════════════════════════════════════════════════════════════╣
+  ║                                                                        ║
+  ║   Git Mastery         ████████████████████████░░  99%   ▸ LEGEND       ║
+  ║   Problem Solving     ██████████████████████░░░░  93%   ▸ LEGEND       ║
+  ║   Coffee Brewing      █████████████████████████   ∞%    ▸ DEITY        ║
+  ║                                                                        ║
+  ║   ─── Overall ────── ████████████████████░░░░░░  LVL 27 ▲             ║
+  ╚════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+&nbsp;
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   VI. GITHUB STATS   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+&nbsp;
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   VI. TROPHIES   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-### ◈ &nbsp;The Constellation — Stats from the Canopy
+### `> trophies --unlock-all`
+
+*Proof that the grind was real.*
+
+&nbsp;
+
+<img src="https://github-profile-trophy.vercel.app/?username=bechir-lahoueg&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+
+</div>
+
+&nbsp;
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+&nbsp;
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   VII. CONSTELLATION — STATS   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<div align="center">
+
+### `> stats --from-the-canopy`
 
 *Each number is a footprint. Each graph, a trail through the forest.*
 
 &nbsp;
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bechir-lahoueg&show_icons=true&count_private=true&hide_border=true&title_color=a8e6cf&icon_color=2d6a4f&text_color=8b9e8b&bg_color=0d1117&ring_color=40916c&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bechir-lahoueg&show_icons=true&count_private=true&hide_border=true&title_color=7dcea0&icon_color=2d6a4f&text_color=6db88a&bg_color=0a0f0a&ring_color=1a5c2e&include_all_commits=true&rank_icon=github" />
 &nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=bechir-lahoueg&hide_border=true&background=0d1117&stroke=1a3a2a&ring=40916c&fire=a8e6cf&currStreakNum=a8e6cf&sideNums=a8e6cf&currStreakLabel=5b8a72&sideLabels=5b8a72&dates=3a5a4a" />
+<img width="49%" src="https://streak-stats.demolab.com?user=bechir-lahoueg&hide_border=true&background=0a0f0a&stroke=1a3a2a&ring=1a5c2e&fire=7dcea0&currStreakNum=c9f5d9&sideNums=7dcea0&currStreakLabel=3d8b5e&sideLabels=3d8b5e&dates=2d5a3a" />
 
 &nbsp;
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bechir-lahoueg&layout=compact&hide_border=true&title_color=a8e6cf&text_color=8b9e8b&bg_color=0d1117&langs_count=8" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bechir-lahoueg&layout=compact&hide_border=true&title_color=7dcea0&text_color=6db88a&bg_color=0a0f0a&langs_count=8" />
 &nbsp;
-<img width="59%" src="https://github-readme-activity-graph.vercel.app/graph?username=bechir-lahoueg&bg_color=0d1117&color=5b8a72&line=40916c&point=a8e6cf&area=true&area_color=1a3a2a&hide_border=true&custom_title=Commit%20Trail%20Through%20the%20Forest" />
+<img width="59%" src="https://github-readme-activity-graph.vercel.app/graph?username=bechir-lahoueg&bg_color=0a0f0a&color=3d8b5e&line=1a5c2e&point=7dcea0&area=true&area_color=0d2818&hide_border=true&custom_title=Commit%20Trail%20Through%20the%20Phantom%20Forest" />
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+&nbsp;
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   VII. CONTRIBUTION SNAKE   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<div align="center">
-
-### ◈ &nbsp;The Hunt
-
-*In this forest, every green square is prey.*
-*Watch the serpent consume my contribution grid — day by day, commit by commit.*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 &nbsp;
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bechir-lahoueg/bechir-lahoueg/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bechir-lahoueg/bechir-lahoueg/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/bechir-lahoueg/bechir-lahoueg/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   VIII. 3D CONTRIBUTION CALENDAR   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   VIII. PROFILE SUMMARY   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-### ◈ &nbsp;The Dimension — Contributions in 3D
-
-*Every peak is a week of obsession. Every valley, a week I was planting the next storm.*
-
-&nbsp;
-
-<!-- Primary source: auto-generated by 3d-contrib.yml workflow into main branch -->
-<!-- Fallback: isometric calendar via githubtrends (always works without setup) -->
-
-<img src="https://raw.githubusercontent.com/bechir-lahoueg/bechir-lahoueg/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" onerror="this.src='https://github-readme-stats.vercel.app/api?username=bechir-lahoueg&show_icons=true&bg_color=0d1117&title_color=a8e6cf&text_color=8b9e8b&hide_border=true'" />
-
-&nbsp;
-
-> 💡 *This 3D calendar is auto-generated nightly by the `3d-contrib.yml` GitHub Action.*
-> *Once the workflow runs at least once on your repo, this image will appear.*
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   IX. PROFILE SUMMARY   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<div align="center">
-
-### ◈ &nbsp;The Canopy View — Full Profile Summary
+### `> profile --deep-scan`
 
 &nbsp;
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bechir-lahoueg&theme=github_dark" width="85%" />
 
-<br/>&nbsp;<br/>
+&nbsp;
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bechir-lahoueg&theme=github_dark" width="40%" />
 &ensp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bechir-lahoueg&theme=github_dark" width="40%" />
 
-<br/>&nbsp;<br/>
+&nbsp;
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bechir-lahoueg&theme=github_dark" width="40%" />
 &ensp;
@@ -337,61 +325,92 @@ Every pull request: a bridge.
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+&nbsp;
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   X. METRICS — REPLACE TROPHIES   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+&nbsp;
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   IX. THE HUNT — SNAKE   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-### ◈ &nbsp;Deep Metrics — From the Root System
+### `> hunt --start-serpent`
 
-*What the surface doesn't show.*
-
-&nbsp;
-
-<!-- WakaTime coding time — replace YOUR_WAKATIME_USERNAME once you connect WakaTime -->
-<!-- https://github.com/anmol098/waka-readme-stats -->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bechir_lahoueg&hide_border=true&bg_color=0d1117&title_color=a8e6cf&text_color=8b9e8b&icon_color=40916c&layout=compact&langs_count=10" width="60%" alt="WakaTime Stats" />
+*In this forest, every green square is prey.*
+*Watch the serpent consume the contribution grid — day by day, commit by commit.*
 
 &nbsp;
 
-<!-- Isometric commit calendar — always renders, no setup needed -->
-<img src="https://ssr.gitprofile.app/render?login=bechir-lahoueg&type=isometric_calendar&scheme=dark&username=bechir-lahoueg" width="100%" alt="Isometric Calendar" onerror="this.style.display='none'" />
-
-&nbsp;
-
-<!-- Coding time breakdown by repo using vercel-based service -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bechir-lahoueg&theme=nord_dark" width="85%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bechir-lahoueg/bechir-lahoueg/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bechir-lahoueg/bechir-lahoueg/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/bechir-lahoueg/bechir-lahoueg/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+&nbsp;
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+&nbsp;
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   X. THE DIMENSION — 3D   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<div align="center">
+
+### `> dimension --render-3d`
+
+*Every peak is a week of obsession. Every valley, a seed being planted.*
+
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/bechir-lahoueg/bechir-lahoueg/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Forest" />
+
+&nbsp;
+
+<sub>Auto-generated nightly by the <code>3d-contrib.yml</code> GitHub Action</sub>
+
+</div>
+
+&nbsp;
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+&nbsp;
 
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   XI. CURRENTLY VIBING   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-### ◈ &nbsp;Currently Vibing
+### `> spotify --now-playing`
 
-*The music playing while the code is being written.*
+*The soundtrack to the forest.*
 
 &nbsp;
 
-<!-- Setup: https://github.com/kittinan/spotify-github-profile — replace YOUR_SPOTIFY_UID -->
-<a href="https://open.spotify.com">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=neon&show_offline=true&background_color=0d1117&interchange=false&bar_color=40916c&bar_color_cover=true" alt="Spotify Now Playing" width="380" />
+<a href="https://open.spotify.com/user/gobnx6w2kf9vab2vige3cilb2">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gobnx6w2kf9vab2vige3cilb2&cover_image=true&theme=neon&show_offline=true&background_color=0a0f0a&interchange=false&bar_color=1a5c2e&bar_color_cover=true" alt="Spotify Now Playing" width="400" />
 </a>
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+&nbsp;
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   XII. RANDOM QUOTE   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+&nbsp;
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   XII. WHISPER — QUOTE   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-### ◈ &nbsp;Whisper from the Canopy
+### `> fortune`
+
+&nbsp;
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs" />
 
 &nbsp;
 
@@ -399,62 +418,65 @@ Every pull request: a bridge.
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+&nbsp;
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+&nbsp;
 
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   XIII. SIGNAL FIRE — CONTACT   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-### ◈ &nbsp;The Signal Fire
+### `> signal --broadcast`
 
-*If you've made it this far — you're not a stranger. You're an ally.*
-
-&nbsp;
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a8e6cf)](https://linkedin.com/in/bechir-lahoueg)
-&ensp;
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=a8e6cf)](mailto:bechirlahweg@gmail.com)
-&ensp;
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=a8e6cf)](https://instagram.com/bechir_lahweg)
-&ensp;
-[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=a8e6cf)](https://fb.com/bechirlahoueg)
+*You made it to the end. That makes you one of us.*
 
 &nbsp;
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=a8e6cf)](https://wa.me/21628509217)
+<a href="https://linkedin.com/in/bechir-lahoueg"><img src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=7dcea0" /></a>
 &ensp;
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=a8e6cf)](https://github.com/bechir-lahoueg)
+<a href="mailto:bechirlahweg@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f0a?style=for-the-badge&logo=gmail&logoColor=7dcea0" /></a>
 &ensp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=About.me&logoColor=a8e6cf)](https://bechir-lahoueg.dev)
+<a href="https://instagram.com/bechir_lahweg"><img src="https://img.shields.io/badge/Instagram-0a0f0a?style=for-the-badge&logo=instagram&logoColor=7dcea0" /></a>
+&ensp;
+<a href="https://fb.com/bechirlahoueg"><img src="https://img.shields.io/badge/Facebook-0a0f0a?style=for-the-badge&logo=facebook&logoColor=7dcea0" /></a>
+
+&nbsp;
+
+<a href="https://wa.me/21628509217"><img src="https://img.shields.io/badge/WhatsApp-0a0f0a?style=for-the-badge&logo=whatsapp&logoColor=7dcea0" /></a>
+&ensp;
+<a href="https://github.com/bechir-lahoueg"><img src="https://img.shields.io/badge/GitHub-0a0f0a?style=for-the-badge&logo=github&logoColor=7dcea0" /></a>
+&ensp;
+<a href="https://bechir-lahoueg.dev"><img src="https://img.shields.io/badge/Portfolio-0a0f0a?style=for-the-badge&logo=About.me&logoColor=7dcea0" /></a>
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+&nbsp;
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+&nbsp;
 
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   XIV. EPILOGUE   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-&nbsp;
-
 ```
-┌─────────────────────────────────────────────────── bechir@forest ~  ✕ ─┐
+┌──────────────────────────────────────────────────────── phantom-forest ──┐
 │                                                                          │
-│  root@forest:~# sudo shutdown -h now                                    │
-│  [sudo] password for bechir: ••••••••••                                 │
+│  root@phantom:~# shutdown -h now                                         │
 │                                                                          │
-│  Broadcast message from root@forest (pts/0):                            │
+│  Broadcast message from root@phantom:                                    │
 │                                                                          │
-│    "He did not ask permission to build.                                  │
-│     He did not wait for the perfect moment.                              │
-│     He opened the terminal, and began.                                   │
-│     And the forest grew."                                                │
-│                                                                          │
-│  The system is going down for halt NOW!                                  │
+│    "He did not ask permission to build.                                   │
+│     He did not wait for the perfect moment.                               │
+│     He opened the terminal, and began.                                    │
+│     And the forest grew."                                                 │
 │                                                                          │
 │  [  OK  ] Stopped  code-after-midnight.service                           │
-│  [  OK  ] Unmounted /var/dreams                                          │
-│  [  OK  ] Reached target  Shutdown                                       │
+│  [  OK  ] Unmounted /dev/dreams                                          │
+│  [  OK  ] Reached target Shutdown                                        │
 │                                                                          │
 │  — but the commits live on. —                                            │
 │                                                                          │
@@ -468,12 +490,12 @@ Every pull request: a bridge.
 **This is not a profile. This is a presence.**
 
 If something here moved you, or made you want to build —
-**leave a ⭐** — it plants a tree in this forest.
+**leave a ⭐ — it plants a tree in this forest.**
 
 </sub>
 
 &nbsp;
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a5c2e,30:134e3a,50:0d4a3a,70:0b3d2e,85:0d2137,100:000000&height=150&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6f35,15:1a5c2e,30:134e3a,50:0b3d2e,70:0d2818,85:0a1a10,100:000000&height=150&section=footer&animation=fadeIn" width="100%" />
 
 </div>
