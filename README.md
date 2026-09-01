@@ -92,6 +92,12 @@
 ####%*---*@@%%%%%%%@@@@%%%%%%%%#%%@%%%%%%%*-
 ```
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/LAoUIABCxPK16vcDl2/giphy.gif" width="100%" alt="Solo Leveling" />
+
+</div>
+
 </td>
 <td width="58%" valign="top">
 
@@ -128,20 +134,26 @@ building:   SaaS platforms & microservices
 
 &nbsp;
 
-**`🛠️  STACK`**
+**`🛠️  WHAT I BUILD WITH`**
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring" />
-<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+**`// FRONTEND`**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,bootstrap,tailwind&theme=dark&perline=9" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, Bootstrap, Tailwind" />
+
+**`// BACKEND`**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,symfony,spring,java,python,electron&theme=dark&perline=8" alt="Node.js, Express, PHP, Symfony, Spring, Java, Python, Electron" />
+
+**`// DATA & INFRASTRUCTURE`**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,linux,nginx&theme=dark&perline=7" alt="MySQL, PostgreSQL, MongoDB, Firebase, Docker, Linux, Nginx" />
+
+**`// TOOLS & WORKFLOW`**
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,androidstudio,figma,vim,photoshop,premiere&theme=dark&perline=8" alt="Git, GitHub, IntelliJ IDEA, VS Code, Postman, Android Studio, Figma, Vim, Photoshop, Premiere Pro" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
 
 </div>
 
@@ -153,7 +165,7 @@ building:   SaaS platforms & microservices
 
 <a href="https://leucity.vercel.app"><img src="https://img.shields.io/badge/Leucity-Cloud%20POS-1a5c2e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0f0a" alt="Leucity" /></a>
 <a href="https://luxreserve.vercel.app"><img src="https://img.shields.io/badge/PlanifyGo-SaaS%20Booking-1a5c2e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0f0a" alt="PlanifyGo" /></a>
-<a href="https://pure-glow-bice.vercel.app"><img src="https://img.shields.io/badge/PureGlow-Skin%20Analysis-1a5c2e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0f0a" alt="PureGlow" /></a>
+<a href="https://harissa-media-player.vercel.app"><img src="https://img.shields.io/badge/Harissa-Media%20Player-1a5c2e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0f0a" alt="Harissa Media Player" /></a>
 
 </div>
 
@@ -189,51 +201,7 @@ building:   SaaS platforms & microservices
 
 &nbsp;
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-&nbsp;
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   IV. THE ARSENAL   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<div align="center">
-
-### `> arsenal --list-all`
-
-*Every tool is a weapon. Every weapon, an extension of will.*
-
-&nbsp;
-
-**`// FRONTEND`**
-
-<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,tailwind&theme=dark&perline=8" /></a>
-
-&nbsp;
-
-**`// BACKEND`**
-
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,php,symfony,java,c,python&theme=dark&perline=7" /></a>
-
-&nbsp;
-
-**`// DATA & INFRASTRUCTURE`**
-
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker,linux,nginx&theme=dark&perline=6" /></a>
-
-&nbsp;
-
-**`// TOOLS & WORKFLOW`**
-
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio,figma,vim&theme=dark&perline=7" /></a>
-
-</div>
-
-&nbsp;
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-&nbsp;
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   V. DOMAIN EXPANSION   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   IV. DOMAIN EXPANSION   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
@@ -243,7 +211,7 @@ building:   SaaS platforms & microservices
 
 &nbsp;
 
-<img src="https://media.giphy.com/media/DGsDLr9nyz2LkVgKFs/giphy.gif" width="65%" alt="Domain Expansion" />
+<img src="https://media.giphy.com/media/DGsDLr9nyz2LkVgKFs/giphy-downsized.gif" width="65%" alt="Domain Expansion" />
 
 </div>
 
@@ -253,7 +221,31 @@ building:   SaaS platforms & microservices
 
 &nbsp;
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   VII. CONSTELLATION — STATS   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   V. THE DIMENSION — 3D   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<div align="center">
+
+### `> dimension --render-3d`
+
+*Every peak is a week of obsession. Every valley, a seed being planted.*
+
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/bechir-lahoueg/bechir-lahoueg/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Forest" />
+
+&nbsp;
+
+<sub>Auto-generated nightly by the <code>3d-contrib.yml</code> GitHub Action</sub>
+
+</div>
+
+&nbsp;
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+&nbsp;
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   VI. CONSTELLATION — STATS   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
@@ -273,37 +265,7 @@ building:   SaaS platforms & microservices
 
 &nbsp;
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   VIII. PROFILE SUMMARY   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<div align="center">
-
-### `> profile --deep-scan`
-
-&nbsp;
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bechir-lahoueg&theme=github_dark" width="85%" />
-
-&nbsp;
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bechir-lahoueg&theme=github_dark" width="40%" />
-&ensp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bechir-lahoueg&theme=github_dark" width="40%" />
-
-&nbsp;
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bechir-lahoueg&theme=github_dark" width="40%" />
-&ensp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bechir-lahoueg&theme=github_dark&utcOffset=1" width="40%" />
-
-</div>
-
-&nbsp;
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-&nbsp;
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   IX. THE HUNT — SNAKE   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   VII. THE HUNT — SNAKE   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
@@ -319,30 +281,6 @@ building:   SaaS platforms & microservices
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bechir-lahoueg/bechir-lahoueg/output/github-contribution-grid-snake.svg">
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/bechir-lahoueg/bechir-lahoueg/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
-
-</div>
-
-&nbsp;
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-&nbsp;
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   X. THE DIMENSION — 3D   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<div align="center">
-
-### `> dimension --render-3d`
-
-*Every peak is a week of obsession. Every valley, a seed being planted.*
-
-&nbsp;
-
-<img src="https://raw.githubusercontent.com/bechir-lahoueg/bechir-lahoueg/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Forest" />
-
-&nbsp;
-
-<sub>Auto-generated nightly by the <code>3d-contrib.yml</code> GitHub Action</sub>
 
 </div>
 
@@ -373,24 +311,6 @@ building:   SaaS platforms & microservices
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   XIV. EPILOGUE   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
-
-```text
-┌──── phantom-forest ──────────────────────────────────────────────────────┐
-│  root@phantom:~# git log --oneline --author=github-actions[bot]          │
-│                                                                          │
-│  (nothing to show — and that's on purpose)                               │
-│                                                                          │
-│  root@phantom:~# git log --oneline -5 --author=bechir                    │
-│                                                                          │
-│  a1b2c3d  fix: the bug that shouldn't have existed                       │
-│  e4f5g6h  feat: ship it before I lose the nerve                          │
-│  h7i8j9k  refactor: because "good enough" wasn't                         │
-│  k0l1m2n  chore: kill the daily bot that never should've run             │
-│                                                                          │
-│  root@phantom:~# ▌                                                       │
-└──────────────────────────────────────────────────────────────────────────┘
-```
-
 &nbsp;
 
 <sub>
